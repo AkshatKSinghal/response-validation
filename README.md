@@ -20,9 +20,9 @@ This tool is for allowing the users to test and verify the format of the respons
     - Interactive Mode: prompt user for the request parameters
     - Automated Mode: pre-validate the request payload
   - Response Model Definition: Defintion of the various models possible in the response
-- Response Format: Format of response of APIs, for various response codes. [Input format](#input-format-for-response-format-definition)
-In case the API List is available, the API execution details (format) may be excluded as the operation ID of the APIs in the input would be used to execute the request.
-Format of response for  Format of all responses for given HTTP response code should be same.
+- Response Format: Format of response of APIs, for various response codes. [Input format](#input-format-for-response-format-definition)  
+In case the API List is available, the API execution details (format) may be excluded as the operation ID of the APIs in the input would be used to execute the request.  
+*Format of all responses for given HTTP response code should be same.*
 
 ## Modes
 - Interactive
