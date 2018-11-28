@@ -5,5 +5,5 @@ import org.slf4j.LoggerFactory;
 
 public class Base {
 
-	protected Logger logger = LoggerFactory.getLogger(getClass()); 
+    protected Logger logger = LoggerFactory.getLogger(getClass());
 }
